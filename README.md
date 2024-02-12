@@ -6,3 +6,5 @@ My last personal attempt at this problem before using C51 code is documented in 
 The solution is based on categorical C51 extension of DQN using Reinforcement Learning.
 
 Credit & Source - the code is from https://wandb.ai/cleanrl/cleanrl.benchmark/runs/2r5fagq8/overview
+
+Gym Documentation : https://gymnasium.farama.org/environments/atari/breakout/
